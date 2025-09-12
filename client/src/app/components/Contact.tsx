@@ -137,15 +137,15 @@ function Contact() {
                 <div className="w-full flex flex-col md:flex-row md:justify-between gap-8">
                     {/* Left Section */}
                     <div className="w-full md:w-1/2">
-                        <div className="w-[70px] h-[70px] mb-3">
+                        <div className="w-[120px] h-[120px]">
                             <img
-                                src="./logo3.gif"
+                                src="./logo5.png"
                                 alt="Pentas Logo"
                                 className="w-full h-full object-cover rounded-t-2xl"
                             />
                         </div>
 
-                        <h1 className="text-white text-[24px] md:text-[30px]">PENTAS</h1>
+                        <h1 className="text-white text-[24px] md:text-[30px]">PENTA S</h1>
                         <span className="text-[14px] sm:text-[15px]">
                             International General Trading Contracting LLC
                         </span>
@@ -161,12 +161,6 @@ function Contact() {
                                 Connect us:
                             </h1>
 
-                            <a href="mailto:shoukath@pentas.com" className="hover:underline block">
-                                shoukath@pentas.com
-                            </a>
-                            <a href="mailto:shajitha@pentas.com" className="hover:underline block">
-                                shajitha@pentas.com
-                            </a>
                             <a href="mailto:hr@pentas.com" className="hover:underline block">
                                 hr@pentas.com
                             </a>

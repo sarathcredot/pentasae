@@ -51,7 +51,7 @@ function Banner() {
 
                 <span className="text-[16px] sm:text-[18px] md:text-[20px] lg:text-[23px] leading-relaxed text-white">
                     At{" "}
-                    <span className="text-orange-600">Pentas International</span> General
+                    <span className="text-orange-600 font-bold">Penta s International</span> General
                     Trading Contracting LLC,
                     <br className="hidden sm:block" />
                     we connect markets worldwide through wholesale, retail,

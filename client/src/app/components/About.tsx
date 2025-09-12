@@ -90,12 +90,12 @@ function About() {
 
                     <h1 className="text-[28px] sm:text-[36px] md:text-[50px] mb-5 leading-snug">
                         Welcome to <br />
-                        <span className="text-orange-600">Pentas</span>
+                        <span className="text-orange-600">Penta s</span>
                         <span className="text-[#2DC210]">.</span>
                     </h1>
 
                     <p className="mb-3 text-[15px] sm:text-[16px] md:text-[17px] leading-relaxed">
-                        At Pentas International General Trading Contracting LLC, we are committed to
+                        At Penta s International General Trading Contracting LLC, we are committed to
                         delivering excellence across diverse industries. Established in Sharjah Media City, UAE,
                         our company operates with a vision to connect businesses and individuals through
                         high-quality products and services.
@@ -116,7 +116,7 @@ function About() {
                     </p>
 
                     <p className="text-[15px] sm:text-[16px] md:text-[17px] leading-relaxed">
-                        At Pentas International, we don’t just trade goods and services — we build partnerships
+                        At Penta s International, we don’t just trade goods and services — we build partnerships
                         that last.
                     </p>
                 </div>

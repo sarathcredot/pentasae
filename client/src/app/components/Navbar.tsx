@@ -127,8 +127,8 @@ function Navbar() {
         <nav className="fixed top-0 left-0 w-full bg-black h-[100px] flex items-center justify-between px-6 md:px-12 shadow-lg z-50">
             {/* Logo (Left) */}
             <div className="flex items-center">
-                <div className="w-[100px] h-[100px]">
-                    <img src="./logo3.gif" className="w-full h-full" alt="Logo" />
+                <div className="w-[120px] h-[120px]">
+                    <img src="./logo5.png" className="w-full h-full" alt="Logo" />
                 </div>
             </div>
 

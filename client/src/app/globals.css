@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -25,11 +27,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-html {
-  scroll-behavior: smooth;
-}
 
 html,
 body {
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }

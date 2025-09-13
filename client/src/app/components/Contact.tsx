@@ -145,7 +145,7 @@ function Contact() {
                             />
                         </div>
 
-                        <h1 className="text-white text-[24px] md:text-[30px]">PENTA S</h1>
+                        <h1 className="text-orange-600 text-[24px] md:text-[30px]">Penta s</h1>
                         <span className="text-[14px] sm:text-[15px]">
                             International General Trading Contracting LLC
                         </span>
@@ -180,7 +180,9 @@ function Contact() {
                         <div>
                             <h1 className="text-orange-600 text-[18px] md:text-[20px]">Follow us:</h1>
                             <div className="flex gap-5 mt-3 text-[20px]">
-                                <a href="/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://wa.me/971503816500"
+                                    target="_blank"
+                                    rel="noopener noreferrer">
                                     <FaWhatsapp />
                                 </a>
                                 <a href="/" target="_blank" rel="noopener noreferrer">
@@ -199,7 +201,7 @@ function Contact() {
                     <div className="border-t border-gray-400 mb-5"></div>
                     <p className="text-center text-[13px] md:text-[15px] lg:text-[16px] font-[350] text-white">
                         <Link href="/" className="hover:underline">
-                            Pentas
+                            Penta s
                         </Link>{" "}
                         © {new Date().getFullYear()}. All Rights Reserved.
                     </p>

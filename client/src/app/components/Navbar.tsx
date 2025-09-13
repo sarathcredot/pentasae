@@ -124,12 +124,13 @@ function Navbar() {
     ];
 
     return (
-        <nav className="fixed top-0 left-0 w-full bg-black h-[100px] flex items-center justify-between px-6 md:px-12 shadow-lg z-50">
+        <nav className="fixed top-0 left-0 w-full bg-black h-[100px] flex items-center justify-between pr-6 md:px-12 shadow-lg z-50">
             {/* Logo (Left) */}
             <div className="flex items-center">
-                <div className="w-[120px] h-[120px]">
+                <div className="w-[100px] md:w-[120px] h-[120px]">
                     <img src="./logo5.png" className="w-full h-full" alt="Logo" />
                 </div>
+                <h1 className="text-orange-600 text-[30px]" > Penta s </h1>
             </div>
 
             {/* Desktop Menu (Center) */}
